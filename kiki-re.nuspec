@@ -13,7 +13,7 @@
     </description>
     <projectUrl>https://code.google.com/p/kiki-re/</projectUrl>
     <tags>kiki regex regularexpression python</tags>
-    <copyright></copyright>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
     <iconUrl>https://kiki-re.googlecode.com/svn/trunk/kiki.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
