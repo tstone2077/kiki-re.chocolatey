@@ -4,7 +4,7 @@
     <id>kiki-re</id>
     <title>kiki - Free environment for regular expression testing</title>
     <version>0.5.6</version>
-    <authors>rybloo@gmail.com</authors>
+    <authors>rybloo</authors>
     <owners>Thurston Stone</owners>
     <summary>kiki-re</summary>
     <description>Kiki is a Python/wxPython-based environment for testing regular expressions. Specify a regular expression and a text to match against, and Kiki will highlight the matches using colors and numbers for matched subgroups.
